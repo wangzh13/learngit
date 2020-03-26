@@ -9,5 +9,51 @@ public class hashMapStudy {
         String str2=wareId.substring(str1.length()+1, wareId.length());
         System.out.println(str1);
         System.out.println(str2);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);System.out.println(11);System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);System.out.println(11);System.out.println(11);
+        System.out.println(11);System.out.println(11);
+        System.out.println(11);System.out.println(11);
+        System.out.println(11);System.out.println(11);System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+        System.out.println(11);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
