@@ -10,50 +10,8 @@ public class hashMapStudy {
         System.out.println(str1);
         System.out.println(str2);
         System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);System.out.println(11);System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);System.out.println(11);System.out.println(11);
-        System.out.println(11);System.out.println(11);
-        System.out.println(11);System.out.println(11);
-        System.out.println(11);System.out.println(11);System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println("我测试测试小樱桃");
 
     }
 }
