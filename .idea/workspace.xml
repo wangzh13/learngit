@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="293aba26-2b1c-4ffc-9d26-3b0b37eb1343" name="Default Changelist" comment="推送测试">
+      <change afterPath="$PROJECT_DIR$/src/com/wzh/rochang/ComBaby.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wzh/rochang/maain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wzh/rochang/maain.java" afterDir="false" />
-    </list>
-    <list id="8726f2f0-716b-4fb6-bb94-cc63891dcdd7" name="new分值tiaojia" comment="new分值tiaojia">
-      <changelist_data name="wangzh13" email="wangzh13@asiainfo.com" date="1585216242000" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +55,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1T8GucqupbrzcdnaerwOOAtVGHf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -88,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hashMapStudy">
+  <component name="RunManager" selected="Application.maain">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wzh.rochang.Test" />
       <module name="untitled" />
@@ -156,10 +156,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maain" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.shuxue" />
         <item itemvalue="Application.rNumber" />
-        <item itemvalue="Application.maain" />
         <item itemvalue="Application.hashMapStudy" />
       </list>
     </recent_temporary>
@@ -199,6 +199,8 @@
       <workItem from="1584796535920" duration="1648000" />
       <workItem from="1584875474447" duration="1677000" />
       <workItem from="1585210904413" duration="1797000" />
+      <workItem from="1585552475419" duration="785000" />
+      <workItem from="1585620240432" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="推送测试">
       <created>1585210975510</created>
@@ -228,7 +230,42 @@
       <option name="project" value="LOCAL" />
       <updated>1585212579759</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testNew分支提交">
+      <created>1585298661661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298661662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="推送测试">
+      <created>1585302138514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585302138514</updated>
+    </task>
+    <task id="LOCAL-00007" summary="推送测试">
+      <created>1585302302314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585302302314</updated>
+    </task>
+    <task id="LOCAL-00008" summary="推送测试">
+      <created>1585302673613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585302673613</updated>
+    </task>
+    <task id="LOCAL-00009" summary="推送测试">
+      <created>1585620263556</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585620263556</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +283,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/testNew" />
                       </list>
                     </value>
                   </entry>
@@ -315,6 +352,11 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="origin/testNew" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="master" />
                 </option>
               </RecentGroup>
@@ -325,6 +367,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="testNew分支提交" />
     <MESSAGE value="推送测试" />
     <option name="LAST_COMMIT_MESSAGE" value="推送测试" />
   </component>
